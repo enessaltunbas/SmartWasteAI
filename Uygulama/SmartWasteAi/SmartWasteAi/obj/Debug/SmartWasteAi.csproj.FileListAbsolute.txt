@@ -1,0 +1,12 @@
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.Properties.Resources.resources
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.Form1.resources
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\bin\Debug\SmartWasteAi.exe.config
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\bin\Debug\SmartWasteAi.exe
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\bin\Debug\SmartWasteAi.pdb
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.exe
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.pdb
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.FormPersonel.resources
+C:\Users\Enes\source\repos\SmartWasteAi\SmartWasteAi\obj\Debug\SmartWasteAi.FormAdmin.resources
